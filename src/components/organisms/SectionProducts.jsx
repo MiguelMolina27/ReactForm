@@ -6,7 +6,7 @@ function SectionProducts(props) {
 
   return (
     <div id="div-div__products">
-      <h2>Producto agregado</h2>
+      <h2>Productos agregados</h2>
       <ProductCard
         woodFinish={currentProduct.getWoodFinish()}
         name={currentProduct.getName()}
