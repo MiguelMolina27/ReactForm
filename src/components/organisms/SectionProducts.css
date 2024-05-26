@@ -1,0 +1,13 @@
+#div-div__products{
+    background-color: #ffaaaa;
+    height: 100%;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 1px #f09a9a solid;
+    border-radius: 10px;
+    text-align: center;
+    
+}
